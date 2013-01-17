@@ -5,7 +5,7 @@ int main(){
 	int i;
 	
 	for(i=0;i<42;i++)
-		printf("Hallo Welt");
+		printf("sexismus");
 		return 0;
 		// fotzenlecker
 		}
